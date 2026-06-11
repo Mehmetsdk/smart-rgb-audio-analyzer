@@ -1,8 +1,4 @@
 
-import os
-
-# 1. DOSYA İÇERİKLERİNİ TANIMLA
-
 readme_content = """# Smart RGB Audio Analyzer 🎵💡
 
 An advanced, AI-ready 3-zone audio spectrum analyzer that processes music files, extracts distinct frequency features, and maps them onto smooth, dynamic RGB color patterns. Designed to drive hardware-based smart lighting systems (like ESP32/WS2812B LED strips) with high-fidelity music synchronization.
