@@ -1,2 +1,9 @@
 __pycache__/
 *.mp3
+*.wav
+*.mp4
+venv/
+separated/
+install_log.txt
+sim_err.txt
+sim_out.txt
