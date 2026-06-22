@@ -1,3908 +1,4125 @@
 [
-    {
-        "timestamp": 0.0,
-        "rgb": [
-            12,
-            44,
-            41
-        ],
-        "status": "Chill Flow (Turquoise)"
-    },
-    {
-        "timestamp": 0.5,
-        "rgb": [
-            59,
-            36,
-            59
-        ],
-        "status": "Bass Hit (Pink)"
-    },
-    {
-        "timestamp": 1.0,
-        "rgb": [
-            81,
-            27,
-            97
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 1.5,
-        "rgb": [
-            97,
-            20,
-            125
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 2.0,
-        "rgb": [
-            109,
-            15,
-            146
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 2.5,
-        "rgb": [
-            118,
-            11,
-            162
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 3.0,
-        "rgb": [
-            125,
-            8,
-            174
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 3.5,
-        "rgb": [
-            130,
-            6,
-            183
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 4.0,
-        "rgb": [
-            134,
-            4,
-            190
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 4.5,
-        "rgb": [
-            137,
-            3,
-            195
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 5.0,
-        "rgb": [
-            139,
-            2,
-            199
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 5.5,
-        "rgb": [
-            141,
-            1,
-            202
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 6.0,
-        "rgb": [
-            142,
-            0,
-            204
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 6.5,
-        "rgb": [
-            143,
-            0,
-            205
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 7.0,
-        "rgb": [
-            144,
-            0,
-            206
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 7.5,
-        "rgb": [
-            145,
-            0,
-            207
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 8.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 8.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 9.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 9.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 10.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 10.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 11.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 11.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 12.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 12.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 13.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 13.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 14.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 14.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 15.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 15.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 16.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 16.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 17.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 17.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 18.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 18.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 19.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 19.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 20.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 20.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 21.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 21.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 22.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 22.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 23.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 23.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 24.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 24.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 25.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 25.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 26.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 26.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 27.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 27.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 28.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 28.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 29.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 29.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 30.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 30.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 31.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 31.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 32.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 32.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 33.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 33.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 34.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 34.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 35.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 35.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 36.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 36.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 37.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 37.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 38.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 38.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 39.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 39.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 40.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 40.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 41.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 41.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 42.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 42.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 43.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 43.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 44.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 44.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 45.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 45.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 46.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 46.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 47.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 47.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 48.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 48.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 49.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 49.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 50.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 50.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 51.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 51.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 52.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 52.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 53.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 53.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 54.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 54.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 55.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 55.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 56.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 56.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 57.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 57.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 58.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 58.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 59.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 59.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 60.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 60.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 61.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 61.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 62.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 62.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 63.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 63.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 64.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 64.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 65.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 65.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 66.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 66.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 67.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 67.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 68.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 68.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 69.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 69.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 70.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 70.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 71.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 71.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 72.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 72.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 73.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 73.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 74.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 74.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 75.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 75.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 76.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 76.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 77.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 77.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 78.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 78.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 79.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 79.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 80.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 80.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 81.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 81.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 82.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 82.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 83.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 83.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 84.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 84.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 85.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 85.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 86.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 86.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 87.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 87.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 88.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 88.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 89.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 89.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 90.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 90.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 91.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 91.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 92.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 92.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 93.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 93.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 94.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 94.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 95.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 95.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 96.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 96.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 97.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 97.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 98.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 98.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 99.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 99.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 100.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 100.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 101.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 101.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 102.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 102.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 103.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 103.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 104.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 104.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 105.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 105.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 106.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 106.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 107.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 107.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 108.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 108.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 109.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 109.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 110.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 110.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 111.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 111.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 112.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 112.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 113.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 113.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 114.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 114.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 115.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 115.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 116.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 116.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 117.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 117.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 118.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 118.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 119.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 119.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 120.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 120.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 121.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 121.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 122.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 122.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 123.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 123.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 124.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 124.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 125.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 125.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 126.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 126.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 127.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 127.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 128.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 128.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 129.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 129.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 130.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 130.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 131.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 131.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 132.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 132.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 133.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 133.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 134.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 134.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 135.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 135.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 136.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 136.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 137.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 137.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 138.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 138.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 139.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 139.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 140.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 140.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 141.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 141.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 142.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 142.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 143.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 143.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 144.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 144.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 145.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 145.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 146.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 146.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 147.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 147.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 148.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 148.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 149.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 149.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 150.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 150.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 151.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 151.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 152.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 152.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 153.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 153.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 154.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 154.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 155.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 155.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 156.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 156.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 157.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 157.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 158.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 158.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 159.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 159.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 160.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 160.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 161.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 161.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 162.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 162.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 163.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 163.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 164.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 164.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 165.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 165.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 166.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 166.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 167.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 167.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 168.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 168.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 169.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 169.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 170.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 170.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 171.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 171.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 172.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 172.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 173.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 173.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 174.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 174.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 175.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 175.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 176.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 176.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 177.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 177.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 178.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 178.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 179.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 179.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 180.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 180.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 181.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 181.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 182.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 182.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 183.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 183.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 184.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 184.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 185.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 185.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 186.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 186.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 187.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 187.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 188.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 188.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 189.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 189.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 190.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 190.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 191.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 191.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 192.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 192.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 193.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 193.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 194.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 194.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 195.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 195.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 196.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 196.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 197.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 197.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 198.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 198.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 199.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 199.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 200.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 200.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 201.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 201.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 202.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 202.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 203.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 203.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 204.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 204.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 205.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 205.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 206.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 206.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 207.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 207.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 208.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 208.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 209.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 209.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 210.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 210.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 211.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 211.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 212.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 212.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 213.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 213.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 214.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 214.5,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 215.0,
-        "rgb": [
-            145,
-            0,
-            208
-        ],
-        "status": "Chorus (Purple)"
-    },
-    {
-        "timestamp": 215.5,
-        "rgb": [
-            111,
-            11,
-            166
-        ],
-        "status": "Chill Flow (Turquoise)"
-    },
-    {
-        "timestamp": 216.0,
-        "rgb": [
-            86,
-            19,
-            134
-        ],
-        "status": "Chill Flow (Turquoise)"
-    },
-    {
-        "timestamp": 216.5,
-        "rgb": [
-            67,
-            25,
-            110
-        ],
-        "status": "Chill Flow (Turquoise)"
-    }
+  {
+    "timestamp": 0.0,
+    "emotion": "void awakening",
+    "zone1": [
+      32,
+      51,
+      226
+    ],
+    "zone2": [
+      41,
+      63,
+      229
+    ],
+    "zone3": [
+      27,
+      40,
+      202
+    ]
+  },
+  {
+    "timestamp": 1.0,
+    "emotion": "pulse emerges",
+    "zone1": [
+      37,
+      56,
+      228
+    ],
+    "zone2": [
+      45,
+      67,
+      232
+    ],
+    "zone3": [
+      28,
+      42,
+      206
+    ]
+  },
+  {
+    "timestamp": 2.0,
+    "emotion": "rhythm takes hold",
+    "zone1": [
+      42,
+      61,
+      231
+    ],
+    "zone2": [
+      49,
+      72,
+      235
+    ],
+    "zone3": [
+      29,
+      45,
+      211
+    ]
+  },
+  {
+    "timestamp": 3.0,
+    "emotion": "building momentum",
+    "zone1": [
+      47,
+      66,
+      233
+    ],
+    "zone2": [
+      54,
+      77,
+      238
+    ],
+    "zone3": [
+      30,
+      47,
+      217
+    ]
+  },
+  {
+    "timestamp": 4.0,
+    "emotion": "steady pulse",
+    "zone1": [
+      52,
+      72,
+      236
+    ],
+    "zone2": [
+      59,
+      82,
+      241
+    ],
+    "zone3": [
+      30,
+      49,
+      224
+    ]
+  },
+  {
+    "timestamp": 5.0,
+    "emotion": "deepening mystery",
+    "zone1": [
+      58,
+      78,
+      240
+    ],
+    "zone2": [
+      64,
+      88,
+      244
+    ],
+    "zone3": [
+      36,
+      56,
+      226
+    ]
+  },
+  {
+    "timestamp": 6.0,
+    "emotion": "beat assertion",
+    "zone1": [
+      64,
+      84,
+      243
+    ],
+    "zone2": [
+      70,
+      94,
+      246
+    ],
+    "zone3": [
+      42,
+      62,
+      229
+    ]
+  },
+  {
+    "timestamp": 7.0,
+    "emotion": "drums crystallize",
+    "zone1": [
+      70,
+      90,
+      245
+    ],
+    "zone2": [
+      76,
+      100,
+      249
+    ],
+    "zone3": [
+      49,
+      69,
+      231
+    ]
+  },
+  {
+    "timestamp": 8.0,
+    "emotion": "pulsing hypnotic",
+    "zone1": [
+      76,
+      96,
+      248
+    ],
+    "zone2": [
+      83,
+      107,
+      251
+    ],
+    "zone3": [
+      55,
+      75,
+      234
+    ]
+  },
+  {
+    "timestamp": 9.0,
+    "emotion": "anticipation swells",
+    "zone1": [
+      82,
+      102,
+      249
+    ],
+    "zone2": [
+      89,
+      113,
+      252
+    ],
+    "zone3": [
+      61,
+      81,
+      237
+    ]
+  },
+  {
+    "timestamp": 10.0,
+    "emotion": "bass surge ignites",
+    "zone1": [
+      87,
+      108,
+      251
+    ],
+    "zone2": [
+      95,
+      120,
+      253
+    ],
+    "zone3": [
+      67,
+      87,
+      240
+    ]
+  },
+  {
+    "timestamp": 11.0,
+    "emotion": "sustained tension",
+    "zone1": [
+      93,
+      113,
+      252
+    ],
+    "zone2": [
+      101,
+      126,
+      254
+    ],
+    "zone3": [
+      73,
+      93,
+      241
+    ]
+  },
+  {
+    "timestamp": 12.0,
+    "emotion": "harmonic peak",
+    "zone1": [
+      97,
+      117,
+      253
+    ],
+    "zone2": [
+      106,
+      131,
+      254
+    ],
+    "zone3": [
+      78,
+      98,
+      242
+    ]
+  },
+  {
+    "timestamp": 13.0,
+    "emotion": "rhythmic lock",
+    "zone1": [
+      101,
+      121,
+      253
+    ],
+    "zone2": [
+      111,
+      135,
+      254
+    ],
+    "zone3": [
+      84,
+      103,
+      241
+    ]
+  },
+  {
+    "timestamp": 14.0,
+    "emotion": "bass dominates",
+    "zone1": [
+      104,
+      125,
+      253
+    ],
+    "zone2": [
+      114,
+      139,
+      254
+    ],
+    "zone3": [
+      90,
+      108,
+      239
+    ]
+  },
+  {
+    "timestamp": 15.0,
+    "emotion": "trance deepens",
+    "zone1": [
+      107,
+      127,
+      253
+    ],
+    "zone2": [
+      117,
+      142,
+      254
+    ],
+    "zone3": [
+      96,
+      114,
+      234
+    ]
+  },
+  {
+    "timestamp": 16.0,
+    "emotion": "hypnotic groove",
+    "zone1": [
+      110,
+      130,
+      253
+    ],
+    "zone2": [
+      120,
+      145,
+      254
+    ],
+    "zone3": [
+      103,
+      120,
+      228
+    ]
+  },
+  {
+    "timestamp": 17.0,
+    "emotion": "vocals emerge",
+    "zone1": [
+      112,
+      132,
+      254
+    ],
+    "zone2": [
+      122,
+      147,
+      254
+    ],
+    "zone3": [
+      111,
+      127,
+      221
+    ]
+  },
+  {
+    "timestamp": 18.0,
+    "emotion": "bass surges again",
+    "zone1": [
+      113,
+      133,
+      253
+    ],
+    "zone2": [
+      123,
+      148,
+      255
+    ],
+    "zone3": [
+      119,
+      135,
+      213
+    ]
+  },
+  {
+    "timestamp": 19.0,
+    "emotion": "vocal presence grows",
+    "zone1": [
+      115,
+      135,
+      253
+    ],
+    "zone2": [
+      125,
+      150,
+      254
+    ],
+    "zone3": [
+      128,
+      143,
+      205
+    ]
+  },
+  {
+    "timestamp": 20.0,
+    "emotion": "vocal clarity",
+    "zone1": [
+      116,
+      136,
+      253
+    ],
+    "zone2": [
+      126,
+      151,
+      255
+    ],
+    "zone3": [
+      138,
+      151,
+      199
+    ]
+  },
+  {
+    "timestamp": 21.0,
+    "emotion": "intimacy surfaces",
+    "zone1": [
+      117,
+      136,
+      253
+    ],
+    "zone2": [
+      127,
+      152,
+      254
+    ],
+    "zone3": [
+      147,
+      159,
+      195
+    ]
+  },
+  {
+    "timestamp": 22.0,
+    "emotion": "vocal luminescence",
+    "zone1": [
+      117,
+      136,
+      252
+    ],
+    "zone2": [
+      128,
+      152,
+      254
+    ],
+    "zone3": [
+      155,
+      165,
+      192
+    ]
+  },
+  {
+    "timestamp": 23.0,
+    "emotion": "vocal softness",
+    "zone1": [
+      117,
+      134,
+      252
+    ],
+    "zone2": [
+      128,
+      152,
+      254
+    ],
+    "zone3": [
+      161,
+      171,
+      192
+    ]
+  },
+  {
+    "timestamp": 24.0,
+    "emotion": "vocal presence peaks",
+    "zone1": [
+      116,
+      129,
+      252
+    ],
+    "zone2": [
+      127,
+      150,
+      254
+    ],
+    "zone3": [
+      165,
+      175,
+      194
+    ]
+  },
+  {
+    "timestamp": 25.0,
+    "emotion": "intimate glow",
+    "zone1": [
+      113,
+      119,
+      251
+    ],
+    "zone2": [
+      124,
+      145,
+      253
+    ],
+    "zone3": [
+      167,
+      178,
+      196
+    ]
+  },
+  {
+    "timestamp": 26.0,
+    "emotion": "vocal warmth",
+    "zone1": [
+      116,
+      108,
+      250
+    ],
+    "zone2": [
+      118,
+      135,
+      252
+    ],
+    "zone3": [
+      163,
+      178,
+      197
+    ]
+  },
+  {
+    "timestamp": 27.0,
+    "emotion": "euphoria building",
+    "zone1": [
+      129,
+      98,
+      249
+    ],
+    "zone2": [
+      107,
+      120,
+      250
+    ],
+    "zone3": [
+      154,
+      174,
+      198
+    ]
+  },
+  {
+    "timestamp": 28.0,
+    "emotion": "crescendo nears",
+    "zone1": [
+      149,
+      84,
+      246
+    ],
+    "zone2": [
+      92,
+      97,
+      247
+    ],
+    "zone3": [
+      138,
+      168,
+      197
+    ]
+  },
+  {
+    "timestamp": 29.0,
+    "emotion": "held breath",
+    "zone1": [
+      177,
+      68,
+      241
+    ],
+    "zone2": [
+      79,
+      74,
+      243
+    ],
+    "zone3": [
+      116,
+      160,
+      196
+    ]
+  },
+  {
+    "timestamp": 30.0,
+    "emotion": "unknown",
+    "zone1": [
+      212,
+      51,
+      236
+    ],
+    "zone2": [
+      74,
+      55,
+      237
+    ],
+    "zone3": [
+      89,
+      152,
+      196
+    ]
+  },
+  {
+    "timestamp": 31.0,
+    "emotion": "unknown",
+    "zone1": [
+      230,
+      35,
+      210
+    ],
+    "zone2": [
+      70,
+      38,
+      231
+    ],
+    "zone3": [
+      62,
+      146,
+      197
+    ]
+  },
+  {
+    "timestamp": 32.0,
+    "emotion": "unknown",
+    "zone1": [
+      218,
+      28,
+      161
+    ],
+    "zone2": [
+      72,
+      28,
+      220
+    ],
+    "zone3": [
+      48,
+      138,
+      187
+    ]
+  },
+  {
+    "timestamp": 33.0,
+    "emotion": "unknown",
+    "zone1": [
+      202,
+      29,
+      125
+    ],
+    "zone2": [
+      76,
+      29,
+      203
+    ],
+    "zone3": [
+      40,
+      131,
+      177
+    ]
+  },
+  {
+    "timestamp": 34.0,
+    "emotion": "unknown",
+    "zone1": [
+      192,
+      29,
+      103
+    ],
+    "zone2": [
+      78,
+      29,
+      192
+    ],
+    "zone3": [
+      35,
+      126,
+      169
+    ]
+  },
+  {
+    "timestamp": 35.0,
+    "emotion": "unknown",
+    "zone1": [
+      186,
+      29,
+      91
+    ],
+    "zone2": [
+      79,
+      29,
+      186
+    ],
+    "zone3": [
+      32,
+      123,
+      164
+    ]
+  },
+  {
+    "timestamp": 36.0,
+    "emotion": "unknown",
+    "zone1": [
+      182,
+      29,
+      84
+    ],
+    "zone2": [
+      79,
+      29,
+      182
+    ],
+    "zone3": [
+      31,
+      121,
+      162
+    ]
+  },
+  {
+    "timestamp": 37.0,
+    "emotion": "unknown",
+    "zone1": [
+      181,
+      29,
+      81
+    ],
+    "zone2": [
+      79,
+      29,
+      181
+    ],
+    "zone3": [
+      30,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 38.0,
+    "emotion": "unknown",
+    "zone1": [
+      180,
+      29,
+      80
+    ],
+    "zone2": [
+      79,
+      29,
+      180
+    ],
+    "zone3": [
+      30,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 39.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 40.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 41.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 42.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 43.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 44.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 45.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 46.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 47.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 48.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 49.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 50.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      29,
+      120,
+      160
+    ]
+  },
+  {
+    "timestamp": 51.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      80
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      30,
+      119,
+      160
+    ]
+  },
+  {
+    "timestamp": 52.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      81
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      30,
+      118,
+      160
+    ]
+  },
+  {
+    "timestamp": 53.0,
+    "emotion": "unknown",
+    "zone1": [
+      179,
+      29,
+      82
+    ],
+    "zone2": [
+      80,
+      29,
+      179
+    ],
+    "zone3": [
+      30,
+      116,
+      160
+    ]
+  },
+  {
+    "timestamp": 54.0,
+    "emotion": "unknown",
+    "zone1": [
+      178,
+      29,
+      86
+    ],
+    "zone2": [
+      81,
+      29,
+      179
+    ],
+    "zone3": [
+      31,
+      111,
+      160
+    ]
+  },
+  {
+    "timestamp": 55.0,
+    "emotion": "unknown",
+    "zone1": [
+      176,
+      29,
+      92
+    ],
+    "zone2": [
+      82,
+      29,
+      178
+    ],
+    "zone3": [
+      32,
+      103,
+      161
+    ]
+  },
+  {
+    "timestamp": 56.0,
+    "emotion": "unknown",
+    "zone1": [
+      173,
+      29,
+      102
+    ],
+    "zone2": [
+      84,
+      29,
+      177
+    ],
+    "zone3": [
+      34,
+      89,
+      163
+    ]
+  },
+  {
+    "timestamp": 57.0,
+    "emotion": "unknown",
+    "zone1": [
+      169,
+      29,
+      116
+    ],
+    "zone2": [
+      88,
+      28,
+      175
+    ],
+    "zone3": [
+      38,
+      70,
+      165
+    ]
+  },
+  {
+    "timestamp": 58.0,
+    "emotion": "unknown",
+    "zone1": [
+      164,
+      30,
+      134
+    ],
+    "zone2": [
+      92,
+      28,
+      172
+    ],
+    "zone3": [
+      43,
+      45,
+      168
+    ]
+  },
+  {
+    "timestamp": 59.0,
+    "emotion": "unknown",
+    "zone1": [
+      158,
+      30,
+      152
+    ],
+    "zone2": [
+      97,
+      27,
+      170
+    ],
+    "zone3": [
+      80,
+      49,
+      172
+    ]
+  },
+  {
+    "timestamp": 60.0,
+    "emotion": "longing deepens",
+    "zone1": [
+      134,
+      30,
+      152
+    ],
+    "zone2": [
+      103,
+      27,
+      168
+    ],
+    "zone3": [
+      122,
+      55,
+      177
+    ]
+  },
+  {
+    "timestamp": 61.0,
+    "emotion": "tension builds subtly",
+    "zone1": [
+      110,
+      31,
+      148
+    ],
+    "zone2": [
+      109,
+      27,
+      166
+    ],
+    "zone3": [
+      161,
+      62,
+      182
+    ]
+  },
+  {
+    "timestamp": 62.0,
+    "emotion": "yearning holds",
+    "zone1": [
+      91,
+      32,
+      145
+    ],
+    "zone2": [
+      115,
+      28,
+      166
+    ],
+    "zone3": [
+      187,
+      69,
+      181
+    ]
+  },
+  {
+    "timestamp": 63.0,
+    "emotion": "vocal reaches in",
+    "zone1": [
+      80,
+      34,
+      144
+    ],
+    "zone2": [
+      121,
+      30,
+      167
+    ],
+    "zone3": [
+      189,
+      80,
+      165
+    ]
+  },
+  {
+    "timestamp": 64.0,
+    "emotion": "craving intensifies",
+    "zone1": [
+      74,
+      36,
+      144
+    ],
+    "zone2": [
+      126,
+      32,
+      168
+    ],
+    "zone3": [
+      193,
+      89,
+      157
+    ]
+  },
+  {
+    "timestamp": 65.0,
+    "emotion": "desire peaks",
+    "zone1": [
+      73,
+      38,
+      146
+    ],
+    "zone2": [
+      132,
+      35,
+      171
+    ],
+    "zone3": [
+      197,
+      96,
+      155
+    ]
+  },
+  {
+    "timestamp": 66.0,
+    "emotion": "intimate confession",
+    "zone1": [
+      74,
+      40,
+      149
+    ],
+    "zone2": [
+      137,
+      38,
+      174
+    ],
+    "zone3": [
+      201,
+      102,
+      157
+    ]
+  },
+  {
+    "timestamp": 67.0,
+    "emotion": "tension surges",
+    "zone1": [
+      77,
+      43,
+      152
+    ],
+    "zone2": [
+      142,
+      41,
+      177
+    ],
+    "zone3": [
+      205,
+      107,
+      159
+    ]
+  },
+  {
+    "timestamp": 68.0,
+    "emotion": "climax building",
+    "zone1": [
+      80,
+      45,
+      155
+    ],
+    "zone2": [
+      146,
+      44,
+      179
+    ],
+    "zone3": [
+      208,
+      111,
+      162
+    ]
+  },
+  {
+    "timestamp": 69.0,
+    "emotion": "edge of release",
+    "zone1": [
+      84,
+      47,
+      157
+    ],
+    "zone2": [
+      149,
+      47,
+      181
+    ],
+    "zone3": [
+      211,
+      114,
+      164
+    ]
+  },
+  {
+    "timestamp": 70.0,
+    "emotion": "hovering intensity",
+    "zone1": [
+      86,
+      49,
+      159
+    ],
+    "zone2": [
+      152,
+      48,
+      183
+    ],
+    "zone3": [
+      213,
+      116,
+      166
+    ]
+  },
+  {
+    "timestamp": 71.0,
+    "emotion": "breath held",
+    "zone1": [
+      88,
+      50,
+      160
+    ],
+    "zone2": [
+      153,
+      50,
+      184
+    ],
+    "zone3": [
+      214,
+      117,
+      168
+    ]
+  },
+  {
+    "timestamp": 72.0,
+    "emotion": "pressure mounts",
+    "zone1": [
+      89,
+      51,
+      161
+    ],
+    "zone2": [
+      154,
+      51,
+      184
+    ],
+    "zone3": [
+      215,
+      118,
+      169
+    ]
+  },
+  {
+    "timestamp": 73.0,
+    "emotion": "climactic peak",
+    "zone1": [
+      90,
+      52,
+      161
+    ],
+    "zone2": [
+      155,
+      52,
+      185
+    ],
+    "zone3": [
+      216,
+      119,
+      169
+    ]
+  },
+  {
+    "timestamp": 74.0,
+    "emotion": "tension plateau",
+    "zone1": [
+      91,
+      52,
+      162
+    ],
+    "zone2": [
+      156,
+      52,
+      185
+    ],
+    "zone3": [
+      216,
+      120,
+      170
+    ]
+  },
+  {
+    "timestamp": 75.0,
+    "emotion": "drive intensifies",
+    "zone1": [
+      91,
+      53,
+      162
+    ],
+    "zone2": [
+      156,
+      53,
+      185
+    ],
+    "zone3": [
+      217,
+      121,
+      171
+    ]
+  },
+  {
+    "timestamp": 76.0,
+    "emotion": "momentum rising",
+    "zone1": [
+      91,
+      53,
+      162
+    ],
+    "zone2": [
+      156,
+      53,
+      185
+    ],
+    "zone3": [
+      217,
+      121,
+      171
+    ]
+  },
+  {
+    "timestamp": 77.0,
+    "emotion": "almost breaking",
+    "zone1": [
+      91,
+      53,
+      162
+    ],
+    "zone2": [
+      156,
+      53,
+      185
+    ],
+    "zone3": [
+      217,
+      122,
+      171
+    ]
+  },
+  {
+    "timestamp": 78.0,
+    "emotion": "held together",
+    "zone1": [
+      91,
+      53,
+      162
+    ],
+    "zone2": [
+      157,
+      53,
+      185
+    ],
+    "zone3": [
+      218,
+      122,
+      171
+    ]
+  },
+  {
+    "timestamp": 79.0,
+    "emotion": "surge returns",
+    "zone1": [
+      92,
+      54,
+      162
+    ],
+    "zone2": [
+      157,
+      54,
+      185
+    ],
+    "zone3": [
+      218,
+      122,
+      172
+    ]
+  },
+  {
+    "timestamp": 80.0,
+    "emotion": "pressure sustained",
+    "zone1": [
+      92,
+      54,
+      162
+    ],
+    "zone2": [
+      157,
+      54,
+      186
+    ],
+    "zone3": [
+      218,
+      123,
+      172
+    ]
+  },
+  {
+    "timestamp": 81.0,
+    "emotion": "tension constant",
+    "zone1": [
+      93,
+      54,
+      163
+    ],
+    "zone2": [
+      158,
+      54,
+      186
+    ],
+    "zone3": [
+      219,
+      123,
+      172
+    ]
+  },
+  {
+    "timestamp": 82.0,
+    "emotion": "final build",
+    "zone1": [
+      94,
+      54,
+      163
+    ],
+    "zone2": [
+      159,
+      55,
+      186
+    ],
+    "zone3": [
+      219,
+      123,
+      173
+    ]
+  },
+  {
+    "timestamp": 83.0,
+    "emotion": "peak maintained",
+    "zone1": [
+      95,
+      54,
+      164
+    ],
+    "zone2": [
+      161,
+      55,
+      187
+    ],
+    "zone3": [
+      219,
+      124,
+      173
+    ]
+  },
+  {
+    "timestamp": 84.0,
+    "emotion": "crescendo tightens",
+    "zone1": [
+      98,
+      55,
+      164
+    ],
+    "zone2": [
+      163,
+      56,
+      189
+    ],
+    "zone3": [
+      220,
+      124,
+      173
+    ]
+  },
+  {
+    "timestamp": 85.0,
+    "emotion": "maximum tension",
+    "zone1": [
+      104,
+      54,
+      166
+    ],
+    "zone2": [
+      168,
+      56,
+      192
+    ],
+    "zone3": [
+      219,
+      123,
+      172
+    ]
+  },
+  {
+    "timestamp": 86.0,
+    "emotion": "begins to release",
+    "zone1": [
+      113,
+      54,
+      168
+    ],
+    "zone2": [
+      176,
+      56,
+      196
+    ],
+    "zone3": [
+      219,
+      122,
+      171
+    ]
+  },
+  {
+    "timestamp": 87.0,
+    "emotion": "exhale coming",
+    "zone1": [
+      126,
+      53,
+      171
+    ],
+    "zone2": [
+      186,
+      57,
+      200
+    ],
+    "zone3": [
+      217,
+      120,
+      169
+    ]
+  },
+  {
+    "timestamp": 88.0,
+    "emotion": "final surge",
+    "zone1": [
+      145,
+      52,
+      174
+    ],
+    "zone2": [
+      197,
+      61,
+      204
+    ],
+    "zone3": [
+      216,
+      118,
+      166
+    ]
+  },
+  {
+    "timestamp": 89.0,
+    "emotion": "on the edge",
+    "zone1": [
+      169,
+      51,
+      179
+    ],
+    "zone2": [
+      209,
+      65,
+      207
+    ],
+    "zone3": [
+      213,
+      115,
+      163
+    ]
+  },
+  {
+    "timestamp": 90.0,
+    "emotion": "euphoric release igniting",
+    "zone1": [
+      184,
+      50,
+      172
+    ],
+    "zone2": [
+      214,
+      70,
+      202
+    ],
+    "zone3": [
+      211,
+      113,
+      160
+    ]
+  },
+  {
+    "timestamp": 91.0,
+    "emotion": "bright euphoria settling",
+    "zone1": [
+      190,
+      50,
+      155
+    ],
+    "zone2": [
+      218,
+      76,
+      198
+    ],
+    "zone3": [
+      210,
+      111,
+      158
+    ]
+  },
+  {
+    "timestamp": 92.0,
+    "emotion": "bass surge + vocal warmth",
+    "zone1": [
+      196,
+      49,
+      139
+    ],
+    "zone2": [
+      222,
+      81,
+      194
+    ],
+    "zone3": [
+      209,
+      111,
+      157
+    ]
+  },
+  {
+    "timestamp": 93.0,
+    "emotion": "euphoric float beginning",
+    "zone1": [
+      202,
+      48,
+      126
+    ],
+    "zone2": [
+      225,
+      86,
+      192
+    ],
+    "zone3": [
+      209,
+      111,
+      157
+    ]
+  },
+  {
+    "timestamp": 94.0,
+    "emotion": "bright peak energy",
+    "zone1": [
+      206,
+      48,
+      117
+    ],
+    "zone2": [
+      227,
+      90,
+      191
+    ],
+    "zone3": [
+      209,
+      112,
+      157
+    ]
+  },
+  {
+    "timestamp": 95.0,
+    "emotion": "peak vocals + harmony",
+    "zone1": [
+      208,
+      51,
+      113
+    ],
+    "zone2": [
+      229,
+      94,
+      190
+    ],
+    "zone3": [
+      210,
+      113,
+      158
+    ]
+  },
+  {
+    "timestamp": 96.0,
+    "emotion": "warm bass + vocal glow",
+    "zone1": [
+      209,
+      53,
+      111
+    ],
+    "zone2": [
+      229,
+      97,
+      191
+    ],
+    "zone3": [
+      211,
+      113,
+      158
+    ]
+  },
+  {
+    "timestamp": 97.0,
+    "emotion": "bright drums lighting up",
+    "zone1": [
+      209,
+      56,
+      112
+    ],
+    "zone2": [
+      228,
+      100,
+      191
+    ],
+    "zone3": [
+      211,
+      113,
+      158
+    ]
+  },
+  {
+    "timestamp": 98.0,
+    "emotion": "full euphoric peak",
+    "zone1": [
+      208,
+      59,
+      113
+    ],
+    "zone2": [
+      226,
+      102,
+      191
+    ],
+    "zone3": [
+      211,
+      113,
+      158
+    ]
+  },
+  {
+    "timestamp": 99.0,
+    "emotion": "euphoria fading into dream",
+    "zone1": [
+      205,
+      62,
+      114
+    ],
+    "zone2": [
+      223,
+      104,
+      190
+    ],
+    "zone3": [
+      210,
+      112,
+      157
+    ]
+  },
+  {
+    "timestamp": 100.0,
+    "emotion": "dreamy descent begins",
+    "zone1": [
+      202,
+      66,
+      116
+    ],
+    "zone2": [
+      218,
+      106,
+      189
+    ],
+    "zone3": [
+      208,
+      111,
+      155
+    ]
+  },
+  {
+    "timestamp": 101.0,
+    "emotion": "shifting to wistful warmth",
+    "zone1": [
+      198,
+      69,
+      118
+    ],
+    "zone2": [
+      213,
+      108,
+      187
+    ],
+    "zone3": [
+      205,
+      108,
+      153
+    ]
+  },
+  {
+    "timestamp": 102.0,
+    "emotion": "deep harmony + bass weight",
+    "zone1": [
+      194,
+      73,
+      120
+    ],
+    "zone2": [
+      208,
+      110,
+      185
+    ],
+    "zone3": [
+      202,
+      106,
+      150
+    ]
+  },
+  {
+    "timestamp": 103.0,
+    "emotion": "fading into nostalgia",
+    "zone1": [
+      191,
+      76,
+      123
+    ],
+    "zone2": [
+      204,
+      112,
+      184
+    ],
+    "zone3": [
+      199,
+      103,
+      148
+    ]
+  },
+  {
+    "timestamp": 104.0,
+    "emotion": "wistful acceptance dawning",
+    "zone1": [
+      190,
+      79,
+      125
+    ],
+    "zone2": [
+      202,
+      114,
+      183
+    ],
+    "zone3": [
+      196,
+      101,
+      146
+    ]
+  },
+  {
+    "timestamp": 105.0,
+    "emotion": "sparse, accepting silence",
+    "zone1": [
+      190,
+      82,
+      128
+    ],
+    "zone2": [
+      201,
+      116,
+      183
+    ],
+    "zone3": [
+      194,
+      100,
+      145
+    ]
+  },
+  {
+    "timestamp": 106.0,
+    "emotion": "tender rose-coral glow",
+    "zone1": [
+      191,
+      84,
+      131
+    ],
+    "zone2": [
+      202,
+      118,
+      184
+    ],
+    "zone3": [
+      194,
+      100,
+      145
+    ]
+  },
+  {
+    "timestamp": 107.0,
+    "emotion": "bright drums + rose warmth",
+    "zone1": [
+      194,
+      86,
+      134
+    ],
+    "zone2": [
+      205,
+      119,
+      186
+    ],
+    "zone3": [
+      195,
+      101,
+      146
+    ]
+  },
+  {
+    "timestamp": 108.0,
+    "emotion": "warm coral peak",
+    "zone1": [
+      198,
+      88,
+      136
+    ],
+    "zone2": [
+      208,
+      120,
+      187
+    ],
+    "zone3": [
+      197,
+      103,
+      148
+    ]
+  },
+  {
+    "timestamp": 109.0,
+    "emotion": "bass returns + dreamy float",
+    "zone1": [
+      201,
+      89,
+      139
+    ],
+    "zone2": [
+      211,
+      120,
+      188
+    ],
+    "zone3": [
+      199,
+      105,
+      150
+    ]
+  },
+  {
+    "timestamp": 110.0,
+    "emotion": "euphoria lingering",
+    "zone1": [
+      204,
+      89,
+      141
+    ],
+    "zone2": [
+      214,
+      120,
+      189
+    ],
+    "zone3": [
+      202,
+      107,
+      152
+    ]
+  },
+  {
+    "timestamp": 111.0,
+    "emotion": "fading to acceptance",
+    "zone1": [
+      206,
+      89,
+      142
+    ],
+    "zone2": [
+      216,
+      120,
+      190
+    ],
+    "zone3": [
+      204,
+      108,
+      153
+    ]
+  },
+  {
+    "timestamp": 112.0,
+    "emotion": "bass building + wistful",
+    "zone1": [
+      208,
+      88,
+      143
+    ],
+    "zone2": [
+      218,
+      119,
+      190
+    ],
+    "zone3": [
+      205,
+      109,
+      155
+    ]
+  },
+  {
+    "timestamp": 113.0,
+    "emotion": "bright moment of clarity",
+    "zone1": [
+      208,
+      87,
+      144
+    ],
+    "zone2": [
+      218,
+      118,
+      190
+    ],
+    "zone3": [
+      207,
+      110,
+      155
+    ]
+  },
+  {
+    "timestamp": 114.0,
+    "emotion": "deep harmony + vocal depth",
+    "zone1": [
+      209,
+      85,
+      145
+    ],
+    "zone2": [
+      219,
+      116,
+      192
+    ],
+    "zone3": [
+      207,
+      110,
+      156
+    ]
+  },
+  {
+    "timestamp": 115.0,
+    "emotion": "softening acceptance",
+    "zone1": [
+      209,
+      81,
+      147
+    ],
+    "zone2": [
+      219,
+      114,
+      194
+    ],
+    "zone3": [
+      207,
+      110,
+      156
+    ]
+  },
+  {
+    "timestamp": 116.0,
+    "emotion": "bass surge + warm glow",
+    "zone1": [
+      208,
+      75,
+      149
+    ],
+    "zone2": [
+      218,
+      111,
+      197
+    ],
+    "zone3": [
+      207,
+      108,
+      155
+    ]
+  },
+  {
+    "timestamp": 117.0,
+    "emotion": "euphoric final moment",
+    "zone1": [
+      207,
+      66,
+      154
+    ],
+    "zone2": [
+      218,
+      106,
+      203
+    ],
+    "zone3": [
+      206,
+      106,
+      153
+    ]
+  },
+  {
+    "timestamp": 118.0,
+    "emotion": "dreamy farewell",
+    "zone1": [
+      206,
+      56,
+      161
+    ],
+    "zone2": [
+      216,
+      101,
+      212
+    ],
+    "zone3": [
+      204,
+      103,
+      151
+    ]
+  },
+  {
+    "timestamp": 119.0,
+    "emotion": "wistful acceptance fades",
+    "zone1": [
+      199,
+      48,
+      169
+    ],
+    "zone2": [
+      207,
+      95,
+      215
+    ],
+    "zone3": [
+      202,
+      100,
+      148
+    ]
+  },
+  {
+    "timestamp": 120.0,
+    "emotion": "jealous pulse rising",
+    "zone1": [
+      188,
+      45,
+      174
+    ],
+    "zone2": [
+      192,
+      89,
+      214
+    ],
+    "zone3": [
+      200,
+      97,
+      146
+    ]
+  },
+  {
+    "timestamp": 121.0,
+    "emotion": "tension building",
+    "zone1": [
+      178,
+      42,
+      177
+    ],
+    "zone2": [
+      177,
+      83,
+      213
+    ],
+    "zone3": [
+      199,
+      93,
+      143
+    ]
+  },
+  {
+    "timestamp": 122.0,
+    "emotion": "bittersweet groove",
+    "zone1": [
+      161,
+      40,
+      170
+    ],
+    "zone2": [
+      164,
+      79,
+      213
+    ],
+    "zone3": [
+      197,
+      89,
+      140
+    ]
+  },
+  {
+    "timestamp": 123.0,
+    "emotion": "vocals deepen",
+    "zone1": [
+      148,
+      40,
+      163
+    ],
+    "zone2": [
+      154,
+      76,
+      213
+    ],
+    "zone3": [
+      196,
+      86,
+      138
+    ]
+  },
+  {
+    "timestamp": 124.0,
+    "emotion": "longing crescendo",
+    "zone1": [
+      139,
+      39,
+      159
+    ],
+    "zone2": [
+      147,
+      74,
+      214
+    ],
+    "zone3": [
+      194,
+      82,
+      135
+    ]
+  },
+  {
+    "timestamp": 125.0,
+    "emotion": "bass swells dark",
+    "zone1": [
+      135,
+      39,
+      157
+    ],
+    "zone2": [
+      143,
+      74,
+      214
+    ],
+    "zone3": [
+      192,
+      78,
+      132
+    ]
+  },
+  {
+    "timestamp": 126.0,
+    "emotion": "release softens",
+    "zone1": [
+      132,
+      40,
+      156
+    ],
+    "zone2": [
+      141,
+      73,
+      214
+    ],
+    "zone3": [
+      190,
+      75,
+      130
+    ]
+  },
+  {
+    "timestamp": 127.0,
+    "emotion": "dreamy float begins",
+    "zone1": [
+      131,
+      40,
+      155
+    ],
+    "zone2": [
+      139,
+      73,
+      214
+    ],
+    "zone3": [
+      189,
+      73,
+      129
+    ]
+  },
+  {
+    "timestamp": 128.0,
+    "emotion": "rhythm returns",
+    "zone1": [
+      130,
+      40,
+      154
+    ],
+    "zone2": [
+      139,
+      73,
+      214
+    ],
+    "zone3": [
+      188,
+      72,
+      128
+    ]
+  },
+  {
+    "timestamp": 129.0,
+    "emotion": "acceptance emerges",
+    "zone1": [
+      130,
+      40,
+      154
+    ],
+    "zone2": [
+      139,
+      73,
+      214
+    ],
+    "zone3": [
+      188,
+      72,
+      128
+    ]
+  },
+  {
+    "timestamp": 130.0,
+    "emotion": "wistful pulse",
+    "zone1": [
+      130,
+      40,
+      154
+    ],
+    "zone2": [
+      139,
+      74,
+      214
+    ],
+    "zone3": [
+      188,
+      72,
+      129
+    ]
+  },
+  {
+    "timestamp": 131.0,
+    "emotion": "steady momentum",
+    "zone1": [
+      130,
+      40,
+      154
+    ],
+    "zone2": [
+      139,
+      74,
+      214
+    ],
+    "zone3": [
+      188,
+      73,
+      130
+    ]
+  },
+  {
+    "timestamp": 132.0,
+    "emotion": "vocal tenderness",
+    "zone1": [
+      129,
+      40,
+      153
+    ],
+    "zone2": [
+      140,
+      74,
+      215
+    ],
+    "zone3": [
+      188,
+      73,
+      130
+    ]
+  },
+  {
+    "timestamp": 133.0,
+    "emotion": "bass surge dark",
+    "zone1": [
+      129,
+      40,
+      153
+    ],
+    "zone2": [
+      140,
+      74,
+      215
+    ],
+    "zone3": [
+      188,
+      72,
+      130
+    ]
+  },
+  {
+    "timestamp": 134.0,
+    "emotion": "drift down",
+    "zone1": [
+      128,
+      40,
+      153
+    ],
+    "zone2": [
+      140,
+      74,
+      215
+    ],
+    "zone3": [
+      188,
+      72,
+      130
+    ]
+  },
+  {
+    "timestamp": 135.0,
+    "emotion": "dreamy rise",
+    "zone1": [
+      128,
+      40,
+      152
+    ],
+    "zone2": [
+      140,
+      74,
+      215
+    ],
+    "zone3": [
+      188,
+      73,
+      130
+    ]
+  },
+  {
+    "timestamp": 136.0,
+    "emotion": "sparse moment",
+    "zone1": [
+      127,
+      39,
+      152
+    ],
+    "zone2": [
+      140,
+      75,
+      215
+    ],
+    "zone3": [
+      189,
+      74,
+      131
+    ]
+  },
+  {
+    "timestamp": 137.0,
+    "emotion": "tension returns",
+    "zone1": [
+      127,
+      40,
+      152
+    ],
+    "zone2": [
+      141,
+      76,
+      216
+    ],
+    "zone3": [
+      191,
+      76,
+      133
+    ]
+  },
+  {
+    "timestamp": 138.0,
+    "emotion": "bright acceptance",
+    "zone1": [
+      128,
+      40,
+      153
+    ],
+    "zone2": [
+      142,
+      76,
+      217
+    ],
+    "zone3": [
+      192,
+      79,
+      136
+    ]
+  },
+  {
+    "timestamp": 139.0,
+    "emotion": "vocal warmth",
+    "zone1": [
+      129,
+      40,
+      154
+    ],
+    "zone2": [
+      143,
+      77,
+      218
+    ],
+    "zone3": [
+      194,
+      81,
+      138
+    ]
+  },
+  {
+    "timestamp": 140.0,
+    "emotion": "gentle fade",
+    "zone1": [
+      130,
+      41,
+      155
+    ],
+    "zone2": [
+      144,
+      78,
+      219
+    ],
+    "zone3": [
+      195,
+      83,
+      139
+    ]
+  },
+  {
+    "timestamp": 141.0,
+    "emotion": "dark bass peak",
+    "zone1": [
+      131,
+      42,
+      156
+    ],
+    "zone2": [
+      145,
+      79,
+      220
+    ],
+    "zone3": [
+      195,
+      84,
+      140
+    ]
+  },
+  {
+    "timestamp": 142.0,
+    "emotion": "harmonic deepens",
+    "zone1": [
+      132,
+      42,
+      157
+    ],
+    "zone2": [
+      146,
+      79,
+      221
+    ],
+    "zone3": [
+      195,
+      85,
+      140
+    ]
+  },
+  {
+    "timestamp": 143.0,
+    "emotion": "bittersweet sway",
+    "zone1": [
+      132,
+      43,
+      158
+    ],
+    "zone2": [
+      146,
+      79,
+      221
+    ],
+    "zone3": [
+      195,
+      85,
+      140
+    ]
+  },
+  {
+    "timestamp": 144.0,
+    "emotion": "steady groove",
+    "zone1": [
+      131,
+      43,
+      159
+    ],
+    "zone2": [
+      146,
+      77,
+      221
+    ],
+    "zone3": [
+      195,
+      84,
+      140
+    ]
+  },
+  {
+    "timestamp": 145.0,
+    "emotion": "wistful drift",
+    "zone1": [
+      130,
+      43,
+      160
+    ],
+    "zone2": [
+      145,
+      73,
+      221
+    ],
+    "zone3": [
+      195,
+      84,
+      140
+    ]
+  },
+  {
+    "timestamp": 146.0,
+    "emotion": "drums elevate",
+    "zone1": [
+      127,
+      42,
+      162
+    ],
+    "zone2": [
+      145,
+      67,
+      220
+    ],
+    "zone3": [
+      194,
+      84,
+      139
+    ]
+  },
+  {
+    "timestamp": 147.0,
+    "emotion": "harmonic swell",
+    "zone1": [
+      121,
+      41,
+      164
+    ],
+    "zone2": [
+      144,
+      59,
+      218
+    ],
+    "zone3": [
+      194,
+      84,
+      138
+    ]
+  },
+  {
+    "timestamp": 148.0,
+    "emotion": "rhythm sharp",
+    "zone1": [
+      114,
+      40,
+      167
+    ],
+    "zone2": [
+      144,
+      49,
+      216
+    ],
+    "zone3": [
+      194,
+      85,
+      138
+    ]
+  },
+  {
+    "timestamp": 149.0,
+    "emotion": "final acceptance",
+    "zone1": [
+      104,
+      38,
+      170
+    ],
+    "zone2": [
+      144,
+      39,
+      211
+    ],
+    "zone3": [
+      195,
+      86,
+      137
+    ]
+  },
+  {
+    "timestamp": 150.0,
+    "emotion": "jealous introspection deepens",
+    "zone1": [
+      93,
+      36,
+      173
+    ],
+    "zone2": [
+      143,
+      38,
+      199
+    ],
+    "zone3": [
+      195,
+      87,
+      138
+    ]
+  },
+  {
+    "timestamp": 151.0,
+    "emotion": "rising tension, bittersweet",
+    "zone1": [
+      81,
+      34,
+      177
+    ],
+    "zone2": [
+      142,
+      37,
+      188
+    ],
+    "zone3": [
+      197,
+      90,
+      138
+    ]
+  },
+  {
+    "timestamp": 152.0,
+    "emotion": "melodic warmth creeps in",
+    "zone1": [
+      71,
+      33,
+      180
+    ],
+    "zone2": [
+      141,
+      37,
+      179
+    ],
+    "zone3": [
+      198,
+      92,
+      139
+    ]
+  },
+  {
+    "timestamp": 153.0,
+    "emotion": "bass-driven acceptance",
+    "zone1": [
+      63,
+      32,
+      182
+    ],
+    "zone2": [
+      140,
+      37,
+      173
+    ],
+    "zone3": [
+      200,
+      94,
+      141
+    ]
+  },
+  {
+    "timestamp": 154.0,
+    "emotion": "settling into the ache",
+    "zone1": [
+      58,
+      32,
+      184
+    ],
+    "zone2": [
+      140,
+      38,
+      169
+    ],
+    "zone3": [
+      201,
+      96,
+      142
+    ]
+  },
+  {
+    "timestamp": 155.0,
+    "emotion": "harmonic lift, brief hope",
+    "zone1": [
+      55,
+      32,
+      186
+    ],
+    "zone2": [
+      141,
+      39,
+      168
+    ],
+    "zone3": [
+      203,
+      98,
+      143
+    ]
+  },
+  {
+    "timestamp": 156.0,
+    "emotion": "bass swell, tension holds",
+    "zone1": [
+      53,
+      32,
+      186
+    ],
+    "zone2": [
+      141,
+      41,
+      167
+    ],
+    "zone3": [
+      204,
+      99,
+      145
+    ]
+  },
+  {
+    "timestamp": 157.0,
+    "emotion": "bass deep, vocal fades",
+    "zone1": [
+      53,
+      32,
+      187
+    ],
+    "zone2": [
+      142,
+      42,
+      168
+    ],
+    "zone3": [
+      204,
+      101,
+      146
+    ]
+  },
+  {
+    "timestamp": 158.0,
+    "emotion": "energy returns, reinvigorated",
+    "zone1": [
+      53,
+      33,
+      188
+    ],
+    "zone2": [
+      143,
+      43,
+      169
+    ],
+    "zone3": [
+      205,
+      102,
+      147
+    ]
+  },
+  {
+    "timestamp": 159.0,
+    "emotion": "bright moment of clarity",
+    "zone1": [
+      53,
+      33,
+      188
+    ],
+    "zone2": [
+      144,
+      45,
+      170
+    ],
+    "zone3": [
+      206,
+      103,
+      148
+    ]
+  },
+  {
+    "timestamp": 160.0,
+    "emotion": "vocal presence, vocal warmth",
+    "zone1": [
+      54,
+      34,
+      189
+    ],
+    "zone2": [
+      145,
+      46,
+      171
+    ],
+    "zone3": [
+      207,
+      105,
+      150
+    ]
+  },
+  {
+    "timestamp": 161.0,
+    "emotion": "rising bass momentum",
+    "zone1": [
+      54,
+      34,
+      190
+    ],
+    "zone2": [
+      146,
+      47,
+      171
+    ],
+    "zone3": [
+      208,
+      106,
+      151
+    ]
+  },
+  {
+    "timestamp": 162.0,
+    "emotion": "peak harmonic richness",
+    "zone1": [
+      55,
+      35,
+      190
+    ],
+    "zone2": [
+      146,
+      48,
+      172
+    ],
+    "zone3": [
+      208,
+      107,
+      152
+    ]
+  },
+  {
+    "timestamp": 163.0,
+    "emotion": "sustained euphoric tension",
+    "zone1": [
+      55,
+      35,
+      190
+    ],
+    "zone2": [
+      146,
+      48,
+      172
+    ],
+    "zone3": [
+      208,
+      108,
+      152
+    ]
+  },
+  {
+    "timestamp": 164.0,
+    "emotion": "maximum energy, bass peak",
+    "zone1": [
+      55,
+      35,
+      190
+    ],
+    "zone2": [
+      145,
+      48,
+      171
+    ],
+    "zone3": [
+      207,
+      108,
+      151
+    ]
+  },
+  {
+    "timestamp": 165.0,
+    "emotion": "sudden drop, bright void",
+    "zone1": [
+      55,
+      35,
+      190
+    ],
+    "zone2": [
+      144,
+      48,
+      170
+    ],
+    "zone3": [
+      206,
+      108,
+      150
+    ]
+  },
+  {
+    "timestamp": 166.0,
+    "emotion": "bass returns, dreamy float",
+    "zone1": [
+      55,
+      35,
+      190
+    ],
+    "zone2": [
+      143,
+      48,
+      169
+    ],
+    "zone3": [
+      205,
+      107,
+      149
+    ]
+  },
+  {
+    "timestamp": 167.0,
+    "emotion": "gentle wistfulness",
+    "zone1": [
+      55,
+      35,
+      190
+    ],
+    "zone2": [
+      143,
+      48,
+      169
+    ],
+    "zone3": [
+      204,
+      107,
+      148
+    ]
+  },
+  {
+    "timestamp": 168.0,
+    "emotion": "soft, introspective moment",
+    "zone1": [
+      55,
+      35,
+      190
+    ],
+    "zone2": [
+      143,
+      48,
+      169
+    ],
+    "zone3": [
+      204,
+      107,
+      148
+    ]
+  },
+  {
+    "timestamp": 169.0,
+    "emotion": "rising again, acceptance builds",
+    "zone1": [
+      55,
+      35,
+      190
+    ],
+    "zone2": [
+      143,
+      49,
+      169
+    ],
+    "zone3": [
+      204,
+      108,
+      148
+    ]
+  },
+  {
+    "timestamp": 170.0,
+    "emotion": "bass surge, dreamy elevation",
+    "zone1": [
+      56,
+      36,
+      191
+    ],
+    "zone2": [
+      144,
+      50,
+      170
+    ],
+    "zone3": [
+      205,
+      108,
+      149
+    ]
+  },
+  {
+    "timestamp": 171.0,
+    "emotion": "harmonic peak, brief release",
+    "zone1": [
+      56,
+      36,
+      191
+    ],
+    "zone2": [
+      145,
+      51,
+      171
+    ],
+    "zone3": [
+      206,
+      109,
+      150
+    ]
+  },
+  {
+    "timestamp": 172.0,
+    "emotion": "sustained dreamy float",
+    "zone1": [
+      58,
+      36,
+      192
+    ],
+    "zone2": [
+      146,
+      52,
+      172
+    ],
+    "zone3": [
+      207,
+      110,
+      151
+    ]
+  },
+  {
+    "timestamp": 173.0,
+    "emotion": "harmonic glow, vocal presence",
+    "zone1": [
+      60,
+      37,
+      193
+    ],
+    "zone2": [
+      148,
+      53,
+      174
+    ],
+    "zone3": [
+      207,
+      110,
+      151
+    ]
+  },
+  {
+    "timestamp": 174.0,
+    "emotion": "bass fullness, acceptance deepens",
+    "zone1": [
+      63,
+      37,
+      194
+    ],
+    "zone2": [
+      151,
+      53,
+      176
+    ],
+    "zone3": [
+      207,
+      110,
+      151
+    ]
+  },
+  {
+    "timestamp": 175.0,
+    "emotion": "bright acceptance, wistful glow",
+    "zone1": [
+      70,
+      38,
+      196
+    ],
+    "zone2": [
+      156,
+      53,
+      179
+    ],
+    "zone3": [
+      206,
+      109,
+      151
+    ]
+  },
+  {
+    "timestamp": 176.0,
+    "emotion": "vocal lift, rose-tinted nostalgia",
+    "zone1": [
+      82,
+      38,
+      199
+    ],
+    "zone2": [
+      165,
+      53,
+      186
+    ],
+    "zone3": [
+      205,
+      108,
+      151
+    ]
+  },
+  {
+    "timestamp": 177.0,
+    "emotion": "rising again, resilience glimmers",
+    "zone1": [
+      100,
+      39,
+      205
+    ],
+    "zone2": [
+      179,
+      53,
+      195
+    ],
+    "zone3": [
+      202,
+      105,
+      151
+    ]
+  },
+  {
+    "timestamp": 178.0,
+    "emotion": "bright peak, euphoric resignation",
+    "zone1": [
+      126,
+      40,
+      211
+    ],
+    "zone2": [
+      196,
+      56,
+      204
+    ],
+    "zone3": [
+      199,
+      102,
+      150
+    ]
+  },
+  {
+    "timestamp": 179.0,
+    "emotion": "floating, vocal warmth remains",
+    "zone1": [
+      156,
+      47,
+      215
+    ],
+    "zone2": [
+      211,
+      64,
+      210
+    ],
+    "zone3": [
+      195,
+      99,
+      149
+    ]
+  },
+  {
+    "timestamp": 180.0,
+    "emotion": "euphoric surge",
+    "zone1": [
+      186,
+      55,
+      217
+    ],
+    "zone2": [
+      217,
+      73,
+      207
+    ],
+    "zone3": [
+      191,
+      95,
+      149
+    ]
+  },
+  {
+    "timestamp": 181.0,
+    "emotion": "bright release",
+    "zone1": [
+      213,
+      63,
+      219
+    ],
+    "zone2": [
+      223,
+      83,
+      204
+    ],
+    "zone3": [
+      187,
+      92,
+      148
+    ]
+  },
+  {
+    "timestamp": 182.0,
+    "emotion": "peak brightness",
+    "zone1": [
+      221,
+      70,
+      206
+    ],
+    "zone2": [
+      228,
+      91,
+      202
+    ],
+    "zone3": [
+      183,
+      90,
+      148
+    ]
+  },
+  {
+    "timestamp": 183.0,
+    "emotion": "luminous joy",
+    "zone1": [
+      223,
+      76,
+      194
+    ],
+    "zone2": [
+      232,
+      98,
+      201
+    ],
+    "zone3": [
+      181,
+      89,
+      148
+    ]
+  },
+  {
+    "timestamp": 184.0,
+    "emotion": "radiant energy",
+    "zone1": [
+      224,
+      81,
+      186
+    ],
+    "zone2": [
+      234,
+      104,
+      201
+    ],
+    "zone3": [
+      180,
+      88,
+      148
+    ]
+  },
+  {
+    "timestamp": 185.0,
+    "emotion": "vibrant ascent",
+    "zone1": [
+      225,
+      85,
+      182
+    ],
+    "zone2": [
+      236,
+      107,
+      201
+    ],
+    "zone3": [
+      180,
+      89,
+      149
+    ]
+  },
+  {
+    "timestamp": 186.0,
+    "emotion": "shimmering peak",
+    "zone1": [
+      226,
+      87,
+      181
+    ],
+    "zone2": [
+      237,
+      109,
+      201
+    ],
+    "zone3": [
+      180,
+      89,
+      149
+    ]
+  },
+  {
+    "timestamp": 187.0,
+    "emotion": "climactic burst",
+    "zone1": [
+      226,
+      88,
+      180
+    ],
+    "zone2": [
+      237,
+      110,
+      201
+    ],
+    "zone3": [
+      180,
+      90,
+      150
+    ]
+  },
+  {
+    "timestamp": 188.0,
+    "emotion": "bright cascade",
+    "zone1": [
+      225,
+      88,
+      179
+    ],
+    "zone2": [
+      237,
+      110,
+      201
+    ],
+    "zone3": [
+      180,
+      90,
+      150
+    ]
+  },
+  {
+    "timestamp": 189.0,
+    "emotion": "glowing fade",
+    "zone1": [
+      224,
+      88,
+      178
+    ],
+    "zone2": [
+      236,
+      110,
+      200
+    ],
+    "zone3": [
+      180,
+      90,
+      150
+    ]
+  },
+  {
+    "timestamp": 190.0,
+    "emotion": "soften moment",
+    "zone1": [
+      224,
+      88,
+      177
+    ],
+    "zone2": [
+      236,
+      110,
+      200
+    ],
+    "zone3": [
+      180,
+      90,
+      150
+    ]
+  },
+  {
+    "timestamp": 191.0,
+    "emotion": "drift upward",
+    "zone1": [
+      223,
+      88,
+      177
+    ],
+    "zone2": [
+      236,
+      110,
+      200
+    ],
+    "zone3": [
+      181,
+      90,
+      150
+    ]
+  },
+  {
+    "timestamp": 192.0,
+    "emotion": "gentle descent",
+    "zone1": [
+      223,
+      88,
+      177
+    ],
+    "zone2": [
+      236,
+      110,
+      200
+    ],
+    "zone3": [
+      181,
+      90,
+      150
+    ]
+  },
+  {
+    "timestamp": 193.0,
+    "emotion": "building again",
+    "zone1": [
+      223,
+      89,
+      177
+    ],
+    "zone2": [
+      236,
+      110,
+      201
+    ],
+    "zone3": [
+      181,
+      91,
+      150
+    ]
+  },
+  {
+    "timestamp": 194.0,
+    "emotion": "bright ascent",
+    "zone1": [
+      224,
+      90,
+      178
+    ],
+    "zone2": [
+      236,
+      111,
+      201
+    ],
+    "zone3": [
+      182,
+      92,
+      151
+    ]
+  },
+  {
+    "timestamp": 195.0,
+    "emotion": "surge climax",
+    "zone1": [
+      224,
+      91,
+      178
+    ],
+    "zone2": [
+      237,
+      111,
+      202
+    ],
+    "zone3": [
+      182,
+      93,
+      151
+    ]
+  },
+  {
+    "timestamp": 196.0,
+    "emotion": "radiant hold",
+    "zone1": [
+      224,
+      92,
+      179
+    ],
+    "zone2": [
+      236,
+      112,
+      202
+    ],
+    "zone3": [
+      182,
+      93,
+      152
+    ]
+  },
+  {
+    "timestamp": 197.0,
+    "emotion": "luminous ease",
+    "zone1": [
+      224,
+      92,
+      179
+    ],
+    "zone2": [
+      236,
+      111,
+      202
+    ],
+    "zone3": [
+      182,
+      94,
+      152
+    ]
+  },
+  {
+    "timestamp": 198.0,
+    "emotion": "glide down",
+    "zone1": [
+      224,
+      92,
+      179
+    ],
+    "zone2": [
+      235,
+      111,
+      202
+    ],
+    "zone3": [
+      182,
+      94,
+      151
+    ]
+  },
+  {
+    "timestamp": 199.0,
+    "emotion": "drift lift",
+    "zone1": [
+      223,
+      92,
+      179
+    ],
+    "zone2": [
+      235,
+      111,
+      202
+    ],
+    "zone3": [
+      182,
+      94,
+      151
+    ]
+  },
+  {
+    "timestamp": 200.0,
+    "emotion": "fade softly",
+    "zone1": [
+      223,
+      92,
+      179
+    ],
+    "zone2": [
+      235,
+      111,
+      202
+    ],
+    "zone3": [
+      182,
+      94,
+      152
+    ]
+  },
+  {
+    "timestamp": 201.0,
+    "emotion": "gentle rise",
+    "zone1": [
+      224,
+      93,
+      179
+    ],
+    "zone2": [
+      236,
+      112,
+      202
+    ],
+    "zone3": [
+      182,
+      95,
+      152
+    ]
+  },
+  {
+    "timestamp": 202.0,
+    "emotion": "bright surge",
+    "zone1": [
+      224,
+      94,
+      180
+    ],
+    "zone2": [
+      236,
+      112,
+      203
+    ],
+    "zone3": [
+      183,
+      96,
+      153
+    ]
+  },
+  {
+    "timestamp": 203.0,
+    "emotion": "climax resound",
+    "zone1": [
+      225,
+      94,
+      180
+    ],
+    "zone2": [
+      236,
+      113,
+      203
+    ],
+    "zone3": [
+      183,
+      97,
+      153
+    ]
+  },
+  {
+    "timestamp": 204.0,
+    "emotion": "peak sustain",
+    "zone1": [
+      225,
+      94,
+      180
+    ],
+    "zone2": [
+      236,
+      112,
+      204
+    ],
+    "zone3": [
+      184,
+      97,
+      154
+    ]
+  },
+  {
+    "timestamp": 205.0,
+    "emotion": "luminous release",
+    "zone1": [
+      224,
+      92,
+      178
+    ],
+    "zone2": [
+      236,
+      111,
+      203
+    ],
+    "zone3": [
+      184,
+      97,
+      154
+    ]
+  },
+  {
+    "timestamp": 206.0,
+    "emotion": "glowing resolution",
+    "zone1": [
+      224,
+      90,
+      177
+    ],
+    "zone2": [
+      235,
+      110,
+      204
+    ],
+    "zone3": [
+      184,
+      97,
+      154
+    ]
+  },
+  {
+    "timestamp": 207.0,
+    "emotion": "drift return",
+    "zone1": [
+      223,
+      86,
+      174
+    ],
+    "zone2": [
+      234,
+      108,
+      204
+    ],
+    "zone3": [
+      185,
+      96,
+      154
+    ]
+  },
+  {
+    "timestamp": 208.0,
+    "emotion": "gentle sway",
+    "zone1": [
+      222,
+      81,
+      171
+    ],
+    "zone2": [
+      233,
+      106,
+      206
+    ],
+    "zone3": [
+      186,
+      96,
+      155
+    ]
+  },
+  {
+    "timestamp": 209.0,
+    "emotion": "final shimmer",
+    "zone1": [
+      222,
+      76,
+      169
+    ],
+    "zone2": [
+      233,
+      104,
+      209
+    ],
+    "zone3": [
+      187,
+      96,
+      156
+    ]
+  },
+  {
+    "timestamp": 210.0,
+    "emotion": "euphoric surge building",
+    "zone1": [
+      220,
+      71,
+      169
+    ],
+    "zone2": [
+      231,
+      103,
+      214
+    ],
+    "zone3": [
+      187,
+      96,
+      157
+    ]
+  },
+  {
+    "timestamp": 211.0,
+    "emotion": "peak release energy",
+    "zone1": [
+      219,
+      67,
+      170
+    ],
+    "zone2": [
+      230,
+      102,
+      220
+    ],
+    "zone3": [
+      187,
+      96,
+      157
+    ]
+  },
+  {
+    "timestamp": 212.0,
+    "emotion": "climactic brightness",
+    "zone1": [
+      216,
+      63,
+      174
+    ],
+    "zone2": [
+      227,
+      102,
+      228
+    ],
+    "zone3": [
+      186,
+      95,
+      157
+    ]
+  },
+  {
+    "timestamp": 213.0,
+    "emotion": "euphoria settling",
+    "zone1": [
+      212,
+      59,
+      180
+    ],
+    "zone2": [
+      214,
+      103,
+      225
+    ],
+    "zone3": [
+      184,
+      93,
+      156
+    ]
+  },
+  {
+    "timestamp": 214.0,
+    "emotion": "drift into dreamy space",
+    "zone1": [
+      207,
+      56,
+      188
+    ],
+    "zone2": [
+      200,
+      104,
+      222
+    ],
+    "zone3": [
+      181,
+      90,
+      154
+    ]
+  },
+  {
+    "timestamp": 215.0,
+    "emotion": "floating acceptance",
+    "zone1": [
+      202,
+      54,
+      197
+    ],
+    "zone2": [
+      187,
+      104,
+      220
+    ],
+    "zone3": [
+      177,
+      88,
+      152
+    ]
+  },
+  {
+    "timestamp": 216.0,
+    "emotion": "ethereal fade & silence",
+    "zone1": [
+      187,
+      54,
+      195
+    ],
+    "zone2": [
+      175,
+      105,
+      217
+    ],
+    "zone3": [
+      173,
+      85,
+      149
+    ]
+  }
 ]
