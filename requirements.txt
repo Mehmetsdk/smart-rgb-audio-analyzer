@@ -1,0 +1,12 @@
+# Core pipeline — emotion_color_analyzer.py + simulator.py
+# Tested on Python 3.12
+anthropic>=0.111
+librosa>=0.11
+numpy>=1.26
+matplotlib>=3.10
+sounddevice>=0.5
+soundfile>=0.12
+
+# Optional — only needed for stem_processor.py (Demucs source separation).
+# These are large (PyTorch); install separately if you want stem splitting:
+#   pip install torch demucs
